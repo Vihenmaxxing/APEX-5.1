@@ -1,0 +1,16 @@
+{
+  "name": "APEX — Study Command Centre",
+  "short_name": "APEX",
+  "description": "Study, focus, tasks, fitness, habits, calendar and progression. All data stays on your device.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "icons": [
+    { "src": "icons/apex-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/apex-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/apex-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
